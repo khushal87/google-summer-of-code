@@ -8,7 +8,7 @@
 	</b>
 </div>
 
-This summer, I was pleased to get selected for Google Summer of Code'21 under the organization [React Native Elements](https://github.com/react-native-elements). Working under the organization, my project was to generate documentation automatically out of the UI components and present it to the Docusaurus website.
+This summer, I was pleased to get selected for Google Summer of Code'21 under the organization [React Native Elements](https://github.com/react-native-elements). Working under the organization, my project was to **generate documentation automatically out of the UI components and present it in the Docusaurus website**.
 
 <div  align="center">
 
@@ -47,7 +47,7 @@ All of the listed deliverables were completed within the GSoC period. 🎉
 
 The work can be found here - [Official Website of React native elements](https://reactnativeelements.com/docs/next/). Please refer to the component docs.
 
-I have also written a blog on how it works attached [here](https://deploy-preview-3145--react-native-elements.netlify.app/blog/2021/08/12/auto-generation-of-docs).
+**I have also written a blog on how it works attached [here](https://deploy-preview-3145--react-native-elements.netlify.app/blog/2021/08/12/auto-generation-of-docs).**
 
 ## 🚀 Contributions
 
