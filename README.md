@@ -39,7 +39,7 @@ The deliverables of the project are as follows:
   - Ensuring a common pattern is followed.
 - [x] Writing **scripts to extract data out**(in JS/TS) of it in the form of JSON.
 - [x] Converting the JSON data to Markdown.
-- [ ] Automating the process such that the workflow works automatically whenever there is a change in the prop/definition or component code.
+- [x] Automating the process such that the workflow works automatically whenever there is a change in the prop/definition or component code.
 
 All of the listed deliverables were completed within the GSoC period. 🎉
 
@@ -53,16 +53,16 @@ The work can be found here - [Official Website of React native elements](https:/
 
 ### Pull requests
 
-| PR Link                                                                                                                                                              | Description                                              | Status                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------- |
-| [#3071](https://github.com/react-native-elements/react-native-elements/pull/3071)                                                                                    | [Refactor] Documentation directory structure             | Merged ✅             |
-| [#3081](https://github.com/react-native-elements/react-native-elements/pull/3081)                                                                                    | [Refactor] Directory structure of components             | Merged ✅             |
-| [#3112](https://github.com/react-native-elements/react-native-elements/pull/3112)                                                                                    | [Add] props description, descriptions to the component.  | Merged ✅             |
-| [#3126](https://github.com/react-native-elements/react-native-elements/pull/3126)                                                                                    | [Docs] Added demos and snack for the documentation       | Merged ✅             |
-| [#3136](https://github.com/react-native-elements/react-native-elements/pull/3136)                                                                                    | [Add] Docgen auto generation of docs scripts             | Merged ✅             |
-| [#3142](https://github.com/react-native-elements/react-native-elements/pull/3142)                                                                                    | [Docs] Added generate-markdown scripts                   | Merged ✅             |
-| [#3143](https://github.com/react-native-elements/react-native-elements/pull/3143), [#3144](https://github.com/react-native-elements/react-native-elements/pull/3144) | [Fix] Issues related to auto-generation of documentation | Merged ✅             |
-| [#3145](https://github.com/react-native-elements/react-native-elements/pull/3145)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Open(to be merged) 🕒 |
+| PR Link                                                                                                                                                              | Description                                              | Status    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------- |
+| [#3071](https://github.com/react-native-elements/react-native-elements/pull/3071)                                                                                    | [Refactor] Documentation directory structure             | Merged ✅ |
+| [#3081](https://github.com/react-native-elements/react-native-elements/pull/3081)                                                                                    | [Refactor] Directory structure of components             | Merged ✅ |
+| [#3112](https://github.com/react-native-elements/react-native-elements/pull/3112)                                                                                    | [Add] props description, descriptions to the component.  | Merged ✅ |
+| [#3126](https://github.com/react-native-elements/react-native-elements/pull/3126)                                                                                    | [Docs] Added demos and snack for the documentation       | Merged ✅ |
+| [#3136](https://github.com/react-native-elements/react-native-elements/pull/3136)                                                                                    | [Add] Docgen auto generation of docs scripts             | Merged ✅ |
+| [#3142](https://github.com/react-native-elements/react-native-elements/pull/3142)                                                                                    | [Docs] Added generate-markdown scripts                   | Merged ✅ |
+| [#3143](https://github.com/react-native-elements/react-native-elements/pull/3143), [#3144](https://github.com/react-native-elements/react-native-elements/pull/3144) | [Fix] Issues related to auto-generation of documentation | Merged ✅ |
+| [#3145](https://github.com/react-native-elements/react-native-elements/pull/3145)                                                                                    | [Fix, Improve] Doc-gen issues and automation             | Merged ✅ |
 
 ### Issues
 
